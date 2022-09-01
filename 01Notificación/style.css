@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(230, 223, 223);
+}
+
+.contain-card {
+    margin: 150px;
+    background-color: white;
+    width: 330px;
+    height: 300px;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.contain-card .contain-bell {
+    color: rgb(252, 219, 72);
+    font-size: 50px;
+}
+
+.contain-card .contain-description .title {
+    font-weight: 900;
+    font-size: 1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contain-card .contain-description .description {
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contain-card .contain-description .login {
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.contain-card .contain-description .login a {
+    font-size: 14px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contain-card .contain-button button {
+    height: 50px;
+    width: 40%;
+    background-color: rgb(126, 126, 255);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 10px 10px 15px -11px rgba(0,0,0,0.37);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}

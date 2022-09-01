@@ -1,0 +1,94 @@
+body {
+    background-color: rgb(197, 197, 197);
+}
+
+.contain-card {
+    background-color: rgb(29, 29, 66);
+    height: 900px;
+    width: 700px;
+    border-radius: 20px;
+    margin: 100px;
+    box-shadow: 11px 20px 28px 9px rgba(0,0,0,0.42);
+}
+
+.contain-card .contain-image {
+    background-color: rgb(194, 58, 110);
+    height: 45%;
+    width: 700px;
+    border-radius: 20px;
+}
+
+.contain-card .contain-image .image {
+    margin: 30px 200px;
+}
+
+.contain-card .contain-description .title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+}
+
+.contain-card .contain-description .contain-tags {
+    margin: 50px 200px;
+    text-align: center
+}
+
+.contain-card .contain-description .contain-tags .tag {
+    background-color: none;
+    border: 2px rgb(194, 58, 110) solid;
+    border-radius: 5px;
+    padding: 3px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+
+.contain-card .contain-description .description-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+}
+
+.contain-card .contain-description .description {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    margin: 20px;
+}
+
+.contain-card .contain-price .price-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+}
+
+.contain-card .contain-price .price {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+}
+
+.contain-card .contain-price .comprar-button {
+    background-color: rgb(194, 58, 110);
+    border: none;
+    border-radius: 5px;
+    height: 50px;
+    width: 100px;
+    padding: 10px;
+    margin: 10px 300px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}

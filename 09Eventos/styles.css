@@ -1,0 +1,109 @@
+body {
+    background-color: rgb(209, 206, 206);
+}
+
+.contain-card {
+    background-color: white;
+    width: 800px;
+    height: 850px;
+    margin: 50px 250px;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contain-card .contain-top {
+    margin: 20px;
+}
+
+.contain-card .contain-top .contain-titleh1 {
+    font-weight: bold;
+}
+
+.contain-card .contain-top .button1 {
+    background-color: black;
+    padding: 5px;
+    border-radius: 3px;
+    color: white;
+    font-variant-caps: unicase;
+}
+
+.contain-card .contain-top .button2 {
+    background-color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+    color: rgb(129, 125, 125);
+    font-variant-caps: unicase;
+}
+
+.contain-card .contain-events {
+    margin: 30px 20px 30px 20px;
+}
+
+.contain-card .contain-events .contain-event1 {
+    background-color: white;
+    margin: 30px 0px 30px 0px;
+    border-bottom: 1px solid;
+    border-color: gray;
+}
+
+.contain-card .contain-events .contain-event1 .event-cancelled {
+    color: red;
+}
+
+.contain-card .contain-events .contain-event1 .fechahora {
+    color: gray;
+}
+
+.contain-card .contain-events .contain-event1 h2 {
+    color: rgb(59, 58, 58);
+}
+.contain-card .contain-events .contain-event1 p {
+    color: gray;
+}
+
+.contain-card .contain-events .contain-event1 a {
+    text-decoration: none;
+    color: gray;
+}
+
+.contain-card .contain-events .contain-event2 {
+    background-color: white;
+    margin: 30px 0px 30px 0px;
+    border-bottom: 1px solid;
+    border-color: gray;
+}
+
+.contain-card .contain-events .contain-event2 .fechahora {
+    color: gray;
+}
+
+.contain-card .contain-events .contain-event2 h2 {
+    color: rgb(59, 58, 58);
+}
+
+.contain-card .contain-events .contain-event2 a {
+    text-decoration: none;
+    color: gray;
+}
+
+.contain-card .contain-events .contain-event3 {
+    background-color: white;
+    margin: 30px 0px 30px 0px;
+}
+
+.contain-card .contain-events .contain-event3 .fechahora {
+    color: gray;
+}
+
+.contain-card .contain-events .contain-event3 h2 {
+    color: rgb(59, 58, 58);
+}
+.contain-card .contain-events .contain-event3 p {
+    color: gray;
+}
+
+.contain-card .contain-events .contain-event3 a {
+    text-decoration: none;
+    color: gray;
+}

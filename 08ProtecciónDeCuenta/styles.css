@@ -1,0 +1,71 @@
+body {
+    background-color: #c9ccda;
+}
+
+.contain-card {
+    background-color: white;
+    height: 400px;
+    width: 300px;
+    border-radius: 10px;
+    margin: 100px;
+    padding: 30px;
+    box-shadow: 26px 26px 79px -44px rgba(0,0,0,0.76);
+    font-family:'Arial Narrow', Arial, sans-serif
+}
+
+.contain-card .contain-top .contain-title {
+    color: rgb(46, 46, 110);
+    font-weight: bold;
+    text-align: center;
+}
+
+.contain-card .contain-top .contain-email {
+    color: rgb(46, 46, 110);
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+}
+
+.contain-card .contain-top .contain-description {
+    color: rgb(46, 46, 110);
+    font-size: 14px;
+    text-align: center;
+}
+
+.contain-card .contain-recovery {
+    background-color: rgb(207, 207, 207);
+    height: 100px;
+    width: 170px;
+    border-radius: 10px;
+    margin: 40px;
+    padding: 20px;
+    color: rgb(46, 46, 110);
+    font-family:'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+
+.contain-card .contain-recovery .contain-recoverytitle {
+    font-weight: bold;
+}
+
+.contain-card .contain-recovery .button-update {
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    width: 75px;
+    height: 25px;
+    color: rgb(46, 46, 110);
+}
+
+.contain-button2 {
+    background-color: rgb(46, 46, 110);
+    border: none;
+    border-radius: 5px;
+    width: 80px;
+    height: 25px;
+    margin: 40px 100px;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}

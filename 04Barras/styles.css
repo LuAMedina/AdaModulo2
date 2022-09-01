@@ -1,0 +1,83 @@
+.contain-card {
+    margin: 30px;
+}
+
+.contain-barra1 {
+    background-color: rgb(221, 221, 221);
+    width: 500px;
+    height: 30px;
+    border-radius: 100px;
+    padding: 3px;
+    margin: 20px;
+}
+
+.contain-barra1 .progreso1 {
+    background-color: green;
+    height: 30px;
+    width: 10%;
+    border-radius: 100px;
+}
+
+.contain-barra2 {
+    background-color: rgb(221, 221, 221);
+    width: 500px;
+    height: 30px;
+    border-radius: 100px;
+    padding: 3px;
+    margin: 20px;
+}
+
+.contain-barra2 .progreso2 {
+    background-color: green;
+    height: 30px;
+    width: 25%;
+    border-radius: 100px;
+}
+
+.contain-barra3 {
+    background-color: rgb(221, 221, 221);
+    width: 500px;
+    height: 30px;
+    border-radius: 100px;
+    padding: 3px;
+    margin: 20px;
+}
+
+.contain-barra3 .progreso3 {
+    background-color: green;
+    height: 30px;
+    width: 50%;
+    border-radius: 100px;
+}
+
+.contain-barra4 {
+    background-color: rgb(221, 221, 221);
+    width: 500px;
+    height: 30px;
+    border-radius: 100px;
+    padding: 3px;
+    margin: 20px;
+}
+
+.contain-barra4 .progreso4 {
+    background-color: green;
+    height: 30px;
+    width: 75%;
+    border-radius: 100px;
+}
+
+.contain-barra5 {
+    background-color: rgb(221, 221, 221);
+    width: 500px;
+    height: 30px;
+    border-radius: 100px;
+    padding: 3px;
+    margin: 20px;
+}
+
+.contain-barra5 .progreso5 {
+    background-color: green;
+    height: 30px;
+    width: 90%;
+    border-radius: 100px;
+}

@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(212, 212, 212);
+}
+
+.contain-card {
+    background-color: white;
+    height: 200px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 100px;
+    padding: 30px;
+    box-shadow: 0px 19px 40px -8px rgba(0,0,0,0.42);
+
+}
+
+.contain-card .contain-description {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.contain-card .contain-button {
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+
+.contain-card .contain-button .button {
+    font-size: 12px;
+    color: rgb(87, 87, 150);
+    padding: 10px;
+    height: 30px;
+    border: none;
+    border-radius: 5px
+}
+
+.contain-card .contain-button .button2 {
+    background-color: rgb(87, 87, 150);
+    height: 30px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+}
+
+.contain-card .contain-button2 button {
+    background-color: rgb(87, 87, 150);
+    width: 90%;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0px 19px 40px -8px rgba(0,0,0,0.42);
+
+}
